@@ -9,6 +9,8 @@ The following summarizes each notebook for Review  Classification
 | [BERT for text classification](https://github.com/lilyaYAHIAOUI/review_classifier/blob/main/bert-for-text-classification.ipynb)       | A notebook which walks through fine-tuning. This notebook can be used as a template for text classification. | 
 |[inference](https://github.com/lilyaYAHIAOUI/review_classifier/blob/main/inference.ipynb)                          | A notebook which walks through inference using  the ONNX Runtime accelerator.                                | 
 
+# Dataset
+This model is a fine-tuned version of bert-base-uncased on the [Goodreads Books Reviews dataset](https://www.kaggle.com/competitions/goodreads-books-reviews-290312/data). 
 
 # Results 
 I used different models with different subsets of data. To view more details about the models check its model card.
