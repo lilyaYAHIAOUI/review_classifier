@@ -12,7 +12,7 @@ The following summarizes each notebook for Review  Classification
 # Dataset
 This model is a fine-tuned version of bert-base-uncased on the [Goodreads Books Reviews dataset](https://www.kaggle.com/competitions/goodreads-books-reviews-290312/data). 
 
-# Results 
+# Tests 
 I used different models with different subsets of data. To view more details about the models check its model card.
 
 | model         | Num epochs | Num training examples   | Num validation examples     |  model card                                                                    |
