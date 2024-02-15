@@ -22,6 +22,9 @@ I used different models with different subsets of data. To view more details abo
 |Roberta        | 4          | 161735                  | 17971                       |[model card](https://huggingface.co/lilouuch/Goodreads_Books_Reviews_Roberta_50)|
 |distilbert     | 4          | 312935                  | 34771                       |[model card](https://huggingface.co/lilouuch/Goodreads_Books_Reviews_distilbert)|
 |ALBERT         | 1          | 470097                  | 52233                       |[model card](https://huggingface.co/lilouuch/Goodreads_Books_Reviews_ALBERT)    |
+|BERT meduim    | 2          | 810000                  | 90000                       |[model card](https://huggingface.co/lilouuch/Goodreads_Books_Reviews_med2_50)   |
+|BERT small     | 4          | 810000                  | 90000                       |[model card](https://huggingface.co/lilouuch/Goodreads_Books_Reviews_small1_50) |
+
 
 
 
